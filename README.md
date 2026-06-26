@@ -12,8 +12,6 @@ NyayaAI is an intelligent, RAG-powered legal assistant tailored specifically for
 *   **Modern Light UI:** A sleek, clean, and professional dashboard designed natively in Streamlit to mimic premium legal workspaces.
 
 ## 📸 App Screenshots
-*(To view these on GitHub, save your screenshots to the `assets/` folder in this directory and name them exactly as shown below!)*
-
 | Empty Chat State | Document Summary |
 | :---: | :---: |
 | <img src="assets/empty_state.png" width="400" alt="Empty Chat State"> | <img src="assets/summary.png" width="400" alt="Document Summary"> |
